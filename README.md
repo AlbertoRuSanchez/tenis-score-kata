@@ -1,2 +1,2 @@
-# tenis-score-kata
+# tennis-score-kata
 https://www.codurance.com/katalyst/tennis
